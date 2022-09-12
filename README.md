@@ -1,5 +1,5 @@
 # Testing Lambda and Generics functionality
-## Tutorial from Daily Code Buffer
+### Tutorial from Daily Code Buffer
 
 ## Technologies
 Project was created with:
